@@ -20,11 +20,6 @@
   </entry>
   <entry>
     <title>test_my_site</title>
-    <url>/2022/04/01/test-my-site/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test_my_site</title>
     <url>/2022/04/06/test-my-site-1/</url>
     <content><![CDATA[]]></content>
   </entry>
@@ -55,5 +50,10 @@
         <tag>PS3</tag>
         <tag>Games</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>test_my_site</title>
+    <url>/2022/04/01/test-my-site/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
